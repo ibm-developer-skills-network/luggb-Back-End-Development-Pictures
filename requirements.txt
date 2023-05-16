@@ -24,7 +24,6 @@ pytest==7.2.1
 
 # Code Coverage
 coverage==6.3.2
-codecov==2.1.12
 
 # Utilities
 # httpie==3.2.1
